@@ -1,0 +1,79 @@
+p{
+    margin: 0;
+}
+.carousel-caption{
+    bottom: 10rem;
+    left: 22%;
+    width: 50vw;
+}
+.heading{
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 66px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+.sub-heading{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+    margin: 0!important;
+}
+.collection-btn{
+   margin-top: 3rem;
+   padding: 1rem 2rem;
+   border-radius: 8px;
+   background: white;
+   color: black;
+   border: none;
+}
+.home-title{
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    color: #222222;
+    margin-bottom: 12px;
+    font-weight: 500;
+}
+.home-sub-title{
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    line-height: 24px;
+    color: #777777;
+    margin-bottom: 0px;    
+}
+.product-name{
+    color: #222222;
+    font-size: 16px;
+    font-weight: 500;
+}
+.product-price{
+    margin: 0px;
+    font-size: 18px;
+    color: #777777;
+}
+.product-btn{
+    /* padding: 0.2rem 2rem; */
+    width: 150px;
+    background: #113B6B!important;
+}
+.btn-social{
+    background-color: white;
+}
+.div-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.success-box{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: #113B6B;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
